@@ -4,6 +4,7 @@ Comparação de Métodos de Ordenação
 Objetivo
 ---
 O objetivo deste projeto é compreender as diferenças entre os métodos de ordenação não recursivos, conhecer uma forma de comparação de algoritmos e aprender como relatar os experimentos realizados. O projeto visa construir vetores de dimensões variadas, ordenar esses vetores de diferentes formas (crescente, aleatória e decrescente) e comparar a utilização dos vetores nos três métodos de ordenação implementados
+
 ---
 Descrição
 ---
@@ -12,6 +13,7 @@ O aplicativo desenvolvido neste projeto constrói vetores com números não-repe
 Os resultados obtidos da comparação entre os métodos serão plotados em gráficos, que farão parte de um relatório. O projeto irá comparar os métodos em diferentes tamanhos de vetores, variando de 100 em 100 unidades, ou de 200 em 200 unidades, até valores grandes de vetores (10.000 ou 100.000 unidades).
 
 O relatório deve conter a comparação da utilização dos vetores pelos métodos de ordenação em função da disposição inicial do vetor e será dividido nas seguintes seções: Introdução, Referencial Teórico, Material Utilizado, Métodos Implementados, Resultados Obtidos e Conclusão.
+
 ---
  Requisitos
 ---
